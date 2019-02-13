@@ -1,1 +1,3 @@
-#!/bin/bashyum -y install tomcat8
+#!/bin/bash
+yum install -y httpd
+
